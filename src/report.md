@@ -11,11 +11,6 @@
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты:
-* 
-* 
-
-
 В качестве тестовых данных использовались данные: [Precision](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
 
 * double regularBonus = 0.3 ,     double regularBonus = 0.3
